@@ -1,1 +1,1 @@
-# Algoritmapemrograma
+#strukturdataa
